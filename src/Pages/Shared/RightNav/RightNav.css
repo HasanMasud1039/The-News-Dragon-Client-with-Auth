@@ -1,0 +1,10 @@
+.background{
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+}
+.text{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
